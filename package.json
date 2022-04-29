@@ -1,0 +1,22 @@
+{
+  "name": "m3u8-clip",
+  "version": "0.0.1",
+  "description": "visual edit media like m3u8 and so on ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "murongqimiao@live.cn",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "index.css",
+    "package.json",
+    "ReadME.md",
+    "ReadME-CN.md",
+    "demo.gif"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
