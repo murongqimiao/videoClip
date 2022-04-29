@@ -17,13 +17,18 @@
 - export json  (to lead cloud service generate new one).  
 
 ### demo
-- [react demo](https://github.com/murongqimiao/videoClip)
+- [online demo](https://murongqimiao.github.io/videoClip/)
 - ![demo.gif](https://github.com/murongqimiao/videoClip/blob/master/demo.gif)
-- npm i
-- npm start
+- [react demo](https://github.com/murongqimiao/videoClip)
+
+```
+  cd react-demo
+  npm i
+  npm start
+```
 
 
 ### 联系
 qq群 前端工程化实践群 793841737
 
-### 中文参考 ReadME-CN.md
+### [中文参考](https://github.com/murongqimiao/videoClip/blob/master/ReadME-CN.md)
