@@ -86,7 +86,7 @@ class VideoEdit extends React.Component {
   init () {
     const that = this
     const videoInfo = {
-      url: "http://1400310824.vod2.myqcloud.com/d616a221vodtranscq1400310824/a62bf2035285890799943795254/v.f61696.m3u8",
+      url: "https://1400310824.vod2.myqcloud.com/d616a221vodtranscq1400310824/a62bf2035285890799943795254/v.f61696.m3u8",
       videoId: "video-edit",
       type: "m3u8",
       src: {}
