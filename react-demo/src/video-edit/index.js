@@ -1,7 +1,9 @@
 import React from 'react'
 import "./index.css"
-import { VideoClip } from "../utils/videoClip"
-import "../utils/videoClip.css"
+// 引入m3u8-clip的videoClip使用
+import { VideoClip } from "m3u8-clip"
+// 样式同样需要引入, 如果你需要展示编辑区的话, 编辑区使用原生js实现, 不需要考虑框架问题
+import "m3u8-clip/index.css"
 
 
 let execTime = 0
