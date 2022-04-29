@@ -18,6 +18,7 @@
 
 ### demo
 - [react demo](https://github.com/murongqimiao/videoClip)
+- [demo.gif](https://github.com/murongqimiao/videoClip/blob/master/demo.gif)
 - npm i
 - npm start
 
