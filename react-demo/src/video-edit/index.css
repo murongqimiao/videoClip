@@ -46,7 +46,7 @@ html {
     position: absolute;
     box-sizing: border-box;
     display: flex;
-    transform: translate(220px, -95px);
+    transform: translate(-430px,-95px);
   }
   .video-edit-page .icon-contain .icon {
     width: 30px;
