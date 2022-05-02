@@ -1,7 +1,7 @@
 {
   "name": "m3u8-clip",
-  "version": "0.0.2",
-  "description": "visual edit media like m3u8 and so on ",
+  "version": "0.0.3",
+  "description": "0.0.3 resolve the webkit scroll bar hidden",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

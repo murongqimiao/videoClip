@@ -47,6 +47,7 @@ html {
     box-sizing: border-box;
     display: flex;
     transform: translate(-430px,-95px);
+    left: 50%;
   }
   .video-edit-page .icon-contain .icon {
     width: 30px;

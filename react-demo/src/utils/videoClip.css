@@ -111,9 +111,6 @@
     position: absolute;
     top: 0;
   }
-  #clip-videos-list-container::-webkit-scrollbar {
-    display: none;
-  }
   #clip-videos-list-container .video-clip-each {
     border: 1px solid yellow;
     display: inline-block;
